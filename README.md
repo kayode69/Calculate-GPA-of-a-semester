@@ -1,1 +1,0 @@
-# Calculate-GPA-of-a-semester
